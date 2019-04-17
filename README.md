@@ -10,6 +10,6 @@
 [official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
 
 ## Homework 1
-[official preview](http://web.stanford.edu/class/cs224n/assignments/a1_preview/exploring_word_vectors.html)
+[official file](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_official/homework1)
 
-[my solution]()
+[my solution](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_my_solution/homework1)
