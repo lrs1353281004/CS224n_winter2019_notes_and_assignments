@@ -9,3 +9,7 @@
 
 [official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
 
+## Homework 1
+[official preview](http://web.stanford.edu/class/cs224n/assignments/a1_preview/exploring_word_vectors.html)
+
+[my solution]()
