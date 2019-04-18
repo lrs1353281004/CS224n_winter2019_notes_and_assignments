@@ -30,6 +30,15 @@
 
 [official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes03-neuralnets.pdf)
 
+
+## Lecture 5: Dependency Parsing
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture05-dep-parsing.pdf)
+
+[video](https://www.youtube.com/watch?v=nC9_RfjYwqA&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=5)
+
+[official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes04-dependencyparsing.pdf)
+
+
 ## Homework 1
 [official file](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_official/homework1)
 
