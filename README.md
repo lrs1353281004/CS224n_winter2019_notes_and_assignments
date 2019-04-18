@@ -9,7 +9,7 @@
 
 [official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
 
-## Lecture 2: Word Vectors 2 and Word Senses
+## Lecture 2: Word Vectors and Word Senses
 [slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture02-wordvecs2.pdf)
 
 [video](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2)
@@ -23,7 +23,15 @@
 
 [official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes03-neuralnets.pdf)
 
+## Lecture 4: Backpropagation 
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture04-backprop.pdf)
+
+[video](https://www.youtube.com/watch?v=yLYHDSv-288&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=4)
+
+[official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes03-neuralnets.pdf)
+
 ## Homework 1
 [official file](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_official/homework1)
 
 [my solution](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_my_solution/homework1)
+
