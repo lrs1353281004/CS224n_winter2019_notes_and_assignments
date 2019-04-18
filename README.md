@@ -3,19 +3,25 @@
 [Official website](http://web.stanford.edu/class/cs224n/)
 
 ## Lecture 1: Introduction and Word Vectors
-[slices](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture01-wordvecs1.pdf)
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture01-wordvecs1.pdf)
 
 [video](https://www.youtube.com/watch?v=8rXD5-xhemo)
 
 [official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)
 
 ## Lecture 2: Word Vectors 2 and Word Senses
-[slices](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture02-wordvecs2.pdf)
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture02-wordvecs2.pdf)
 
 [video](https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2)
 
 [official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes02-wordvecs2.pdf)
 
+## Lecture 3: Word Window Classification, Neural Networks, and Matrix Calculus 
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture03-neuralnets.pdf)
+
+[video](https://www.youtube.com/watch?v=8CWyBNX6eDo)
+
+[official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes03-neuralnets.pdf)
 
 ## Homework 1
 [official file](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_official/homework1)
