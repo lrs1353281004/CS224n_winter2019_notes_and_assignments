@@ -44,3 +44,10 @@
 
 [my solution](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_my_solution/homework1)
 
+## Homework 2
+[official file](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_official/homework2)
+
+[handout](http://web.stanford.edu/class/cs224n/assignments/a2.pdf)
+
+[my solution](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_my_solution/homework2)
+
