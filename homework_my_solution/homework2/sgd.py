@@ -86,6 +86,8 @@ def sgd(f, x0, step, iterations, postprocessing=None, useSaved=False,
 
         loss = None
         ### YOUR CODE HERE
+        loss,each_gradient = f(x)
+        x = x - each_gradient*step
 
         ### END YOUR CODE
 
