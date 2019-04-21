@@ -49,7 +49,7 @@
 
 [handout](http://web.stanford.edu/class/cs224n/assignments/a2.pdf)
 
-[written part:my answer]()
+[written part:my answer](https://github.com/lrs1353281004/CS224n_winter2019_notes_and_assignments/blob/master/homework_my_solution/homework2/written_part.pdf)
 
 [coding part:my solution](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_my_solution/homework2)
 
