@@ -59,6 +59,13 @@
 
 [official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf)
 
+## Lecture 9: Practical Tips for Projects
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture09-final-projects.pdf)
+
+[video](https://www.youtube.com/watch?v=fyqm8fRDgl0&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=9)
+
+[official notes](http://web.stanford.edu/class/cs224n/readings/final-project-practical-tips.pdf)
+
 ## Homework 1
 [official file](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_official/homework1)
 
