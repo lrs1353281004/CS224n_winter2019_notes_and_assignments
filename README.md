@@ -52,6 +52,13 @@
 
 [official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
 
+## Lecture 8: Translation, Seq2Seq, Attention
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture08-nmt.pdf)
+
+[video](https://www.youtube.com/watch?v=7m6noV5-l1E&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=8)
+
+[official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf)
+
 ## Homework 1
 [official file](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_official/homework1)
 
