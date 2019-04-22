@@ -66,6 +66,13 @@
 
 [official notes](http://web.stanford.edu/class/cs224n/readings/final-project-practical-tips.pdf)
 
+## Lecture 10: Question Answering
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture10-QA.pdf)
+
+[video](https://www.youtube.com/watch?v=yIdF-17HwSk&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=10)
+
+[official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes07-QA.pdf)
+
 ## Homework 1
 [official file](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_official/homework1)
 
