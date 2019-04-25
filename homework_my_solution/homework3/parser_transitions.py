@@ -7,7 +7,7 @@ Sahil Chopra <schopra8@stanford.edu>
 """
 
 import sys
-
+import math
 class PartialParse(object):
     def __init__(self, sentence):
         """Initializes this partial parse.
@@ -111,7 +111,29 @@ def minibatch_parse(sentences, model, batch_size):
     ###             contains references to the same objects. Thus, you should NOT use the `del` operator
     ###             to remove objects from the `unfinished_parses` list. This will free the underlying memory that
     ###             is being accessed by `partial_parses` and may cause your code to crash.
-
+    partial_parses=[PartialParse(sen) for sen in sentences]
+    unfinished_parses = partial_parses[:]
+    while unfinished_parses:
+        if len(unfinished_parses)>batch_size:
+            minibatch_parses = unfinished_parses[:batch_size]
+            unfinished_parses = unfinished_parses[batch_size:]
+        else:
+            minibatch_parses = unfinished_parses
+            unfinished_parses = []
+        parse_index = [i for i in range(len(minibatch_parses)) ]
+        batch_dependences=[None]*len(minibatch_parses)
+        while minibatch_parses:
+            transitions = model.predict(minibatch_parses)
+            index_rm = []
+            for i in range(len(minibatch_parses)):
+                minibatch_parses[i].parse_step(transitions[i])
+                if not minibatch_parses[i].buffer and len(minibatch_parses[i].stack)==1:
+                   batch_dependences[parse_index[i]]= minibatch_parses[i].dependencies
+                   index_rm.append(i)
+            for index in sorted(index_rm, reverse=True):   #we need to use 'del' in reverse order 
+                del minibatch_parses[index]
+                del parse_index[index]
+        dependencies.extend(batch_dependences)
 
     ### END YOUR CODE
 
