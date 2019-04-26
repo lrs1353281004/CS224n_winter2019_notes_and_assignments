@@ -97,7 +97,15 @@
 
 [video](https://www.youtube.com/watch?v=5vcj8kSwBCY&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=14)
 
+## Lecture 15: Natural Language Generation
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture15-nlg.pdf)
 
+[video](https://www.youtube.com/watch?v=4uG1NMKNWCU&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=15)
+
+## Lecture 16: Coreference Resolution
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture16-coref.pdf)
+
+[video](https://www.youtube.com/watch?v=i19m4GzBhfc&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=16)
 
 # Assignment solutions
 
