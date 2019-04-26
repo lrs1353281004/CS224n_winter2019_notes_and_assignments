@@ -2,6 +2,8 @@
 **CS224n**: Natural Language Processing with Deep Learning , Stanford / Winter 2019
 [Official website](http://web.stanford.edu/class/cs224n/)
 
+# Lecture resources
+
 ## Lecture 1: Introduction and Word Vectors
 [slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture01-wordvecs1.pdf)
 
@@ -85,6 +87,7 @@
 
 [video](https://www.youtube.com/watch?v=9oTHFx0Gg3Q&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=12)
 
+# Assignment solutions
 
 ## Homework 1
 [official file](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_official/homework1)
