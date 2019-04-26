@@ -16,3 +16,43 @@
 
 
 
+## （f）
+
+### i)
+
+Error type: Verb  Phrase  Attachment  Error
+
+Incorrect dependency: wedding$\rightarrow$fearing
+
+Correct dependency: I $\rightarrow$fearing
+
+### ii)
+
+Error type: Coordination Attachment Error
+
+Incorrect dependency: rescue$\rightarrow$and
+
+Correct dependency: rescue $\rightarrow$rush
+
+### iii)
+
+Error type: Prepositional Phrase Attachment Error
+
+Incorrect dependency: named$\rightarrow$Midland
+
+Correct dependency: guy $\rightarrow$Midland
+
+### iv)
+
+Error type: Modifier Attachment Error
+
+Incorrect dependency: elements$\rightarrow$most
+
+Correct dependency: crucial $\rightarrow$most
+
+
+
+
+
+
+
