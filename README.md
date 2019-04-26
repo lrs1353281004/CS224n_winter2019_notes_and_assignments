@@ -87,6 +87,18 @@
 
 [video](https://www.youtube.com/watch?v=9oTHFx0Gg3Q&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=12)
 
+## Lecture 13: Contextual Word Embeddings
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture13-contextual-representations.pdf)
+
+[video](https://www.youtube.com/watch?v=S-CspeZ8FHc&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=13)
+
+## Lecture 14: Transformers and Self-Attention
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture14-transformers.pdf)
+
+[video](https://www.youtube.com/watch?v=5vcj8kSwBCY&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=14)
+
+
+
 # Assignment solutions
 
 ## Homework 1
