@@ -107,6 +107,28 @@
 
 [video](https://www.youtube.com/watch?v=i19m4GzBhfc&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=16)
 
+## Lecture 17: Multitask Learning
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture17-multitask.pdf)
+
+[video](https://www.youtube.com/watch?v=M8dsZsEtEsg&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=17)
+
+## Lecture 18: Constituency Parsing, TreeRNNs
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture18-TreeRNNs.pdf)
+
+[video](https://www.youtube.com/watch?v=6Z4A3RSf-HY&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=18)
+
+[official notes](http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes09-RecursiveNN_constituencyparsing.pdf)
+
+## Lecture 19: Bias in AI
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture19-bias.pdf)
+
+[video](https://www.youtube.com/watch?v=XR8YSRcuVLE&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=19)
+
+## Lecture 20: Future of NLP + Deep Learning
+[slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture20-future.pdf)
+
+[video](https://www.youtube.com/watch?v=3wWZBGN-iX8&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=20)
+
 # Assignment solutions
 
 ## Homework 1
