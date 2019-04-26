@@ -93,4 +93,5 @@
 [handout](http://web.stanford.edu/class/cs224n/assignments/a3.pdf)
 
 [written part:my answer](https://github.com/lrs1353281004/CS224n_winter2019_notes_and_assignments/blob/master/homework_my_solution/homework3/written_part.md) [**Finished!**]
+
 [coding part:my solution](https://github.com/lrs1353281004/CS224n_winter2019_notes_and_assignments/tree/master/homework_my_solution/homework3) [**Finished!**]
