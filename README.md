@@ -76,22 +76,21 @@
 ## Homework 1
 [official file](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_official/homework1)
 
-[my solution](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_my_solution/homework1)
+[my solution](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_my_solution/homework1) [**Finished!**]
 
 ## Homework 2
 [official file](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_official/homework2)
 
 [handout](http://web.stanford.edu/class/cs224n/assignments/a2.pdf)
 
-[written part:my answer](https://github.com/lrs1353281004/CS224n_winter2019_notes_and_assignments/blob/master/homework_my_solution/homework2/written_part.pdf)
+[written part:my answer](https://github.com/lrs1353281004/CS224n_winter2019_notes_and_assignments/blob/master/homework_my_solution/homework2/written_part.pdf) [**Finished!**]
 
-[coding part:my solution](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_my_solution/homework2)
+[coding part:my solution](https://github.com/lrs1353281004/CS224n_learning_notes/tree/master/homework_my_solution/homework2) [**Finished!**]
 
 ## Homework 3
 [official file](https://github.com/lrs1353281004/CS224n_winter2019_notes_and_assignments/tree/master/homework_official/homework3)
 
 [handout](http://web.stanford.edu/class/cs224n/assignments/a3.pdf)
 
-[written part:my answer]() Not finished yet!
-
-[coding part:my solution](https://github.com/lrs1353281004/CS224n_winter2019_notes_and_assignments/tree/master/homework_my_solution/homework3) Not finished yet!
+[written part:my answer](https://github.com/lrs1353281004/CS224n_winter2019_notes_and_assignments/blob/master/homework_my_solution/homework3/written_part.md) [**Finished!**]
+[coding part:my solution](https://github.com/lrs1353281004/CS224n_winter2019_notes_and_assignments/tree/master/homework_my_solution/homework3) [**Finished!**]
