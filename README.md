@@ -159,6 +159,4 @@
 
 [handout](http://web.stanford.edu/class/cs224n/assignments/a4.pdf)
 
-[written part:my answer]() [**not Finished yet!**]
-
-[coding part:my solution](https://github.com/lrs1353281004/CS224n_winter2019_notes_and_assignments/tree/master/homework_my_solution/homework4) [**not Finished yet!**]
+[coding part:my solution](https://github.com/lrs1353281004/CS224n_winter2019_notes_and_assignments/tree/master/homework_my_solution/homework4) [**Finished!**]
